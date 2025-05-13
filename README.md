@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a Generative Adversarial Network (GAN) developed as part of the Advanced AI coursework.
 
-## 🧠 Project Overview
+## Project Overview
 
 The goal of this project is to implement a GAN to generate handwritten digits similar to those found in the MNIST dataset. The GAN consists of:
 
@@ -10,12 +10,12 @@ The goal of this project is to implement a GAN to generate handwritten digits si
 - **Discriminator**: Learns to distinguish between real and fake digit images.
 - **Training Loop**: Alternates between training the discriminator and the generator to improve performance.
 
-## 📁 Files
+## Files
 
 - `gan_model.ipynb` – Main Jupyter notebook containing the GAN implementation, training process, and visualization of generated digits.
 - `README.md` – This file, providing an overview of the project.
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -23,7 +23,7 @@ The goal of this project is to implement a GAN to generate handwritten digits si
 - Matplotlib
 - MNIST Dataset
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
    ```bash
